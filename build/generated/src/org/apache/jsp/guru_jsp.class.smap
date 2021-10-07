@@ -1,0 +1,14 @@
+SMAP
+guru_jsp.java
+JSP
+*S JSP
+*F
++ 0 guru.jsp
+guru.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,35:49
+5#1,25:84
+39#0,4:108
+*E
